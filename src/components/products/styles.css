@@ -1,0 +1,16 @@
+.lista {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.lista > * {
+  flex: 1;
+  text-align: center;
+}
+
+.contente-tab {
+  margin-top: 15px;
+}
